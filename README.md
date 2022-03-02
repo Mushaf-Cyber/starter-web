@@ -18,4 +18,4 @@ please fork this repository and then issue pull request for review.
 
 ###Copyright
 
-Git.training 2022 Mushaf
+Git.training 2022 All Rights reserved.
