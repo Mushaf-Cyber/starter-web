@@ -1,4 +1,4 @@
 .DS_Store_
 log/
-*.org
+*.orig
 *.bak
