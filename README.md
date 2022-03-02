@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ##Intorduction
 
 This is introduction 
+
+###Copyright
+
+Git.training 2022 Mushaf
