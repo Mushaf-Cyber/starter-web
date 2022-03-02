@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mushaf mushaf@git.training
 
 # THANKS
 
